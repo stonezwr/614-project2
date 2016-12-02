@@ -1,0 +1,4 @@
+### C++ ###
+traces
+*.o
+efectiu/*.o
